@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="fmUKLYnnJNRzh74kSm4am3HPAx1VVay20tsVWJTBDHs" />
+
 How Fast Indexing Works
 
 Fast indexing is a process that helps search engines quickly discover and list new or updated pages from your website. Normally, search engines crawl websites on their own schedule, which can take hours or even days. Fast indexing speeds up this process so your content becomes visible in search results much sooner.
